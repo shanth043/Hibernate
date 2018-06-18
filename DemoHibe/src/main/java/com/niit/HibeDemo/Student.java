@@ -4,6 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 @Entity
+//Thius is an entity class
 public class Student {
 
 	@Id
